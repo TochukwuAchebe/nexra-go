@@ -169,8 +169,8 @@ new dated version and a new major version (with a `/v2` module path).
 
 ## Reference
 
-- Developer portal: https://developer.amakoragroup.com
-- API reference: https://developer.amakoragroup.com/docs/platform-api
+- Developer portal: https://usenexra.ai
+- API reference: https://usenexra.ai/docs/platform-api
 - OpenAPI document: https://api.nexra.amakoragroup.com/api/public/openapi.json
 
 ## For maintainers
